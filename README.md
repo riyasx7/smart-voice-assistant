@@ -26,6 +26,7 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory: `cd smart-voice-assistant`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
+5. go to the openai.com and create your own apikey and use it in secret folder
 
 
 Let's embark on this AI-powered journey together! 🚀
