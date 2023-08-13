@@ -7,7 +7,13 @@
 This project combines cutting-edge technologies to build a voice assistant that not only engages in natural conversations but also generates images based on user descriptions. By harnessing the power of OpenAI's ChatGPT for language understanding and DALL-E for image generation, we've reimagined user interactions in the world of AI.
 
 
+## Features
 
+- **Conversational AI:** Utilizing ChatGPT, the voice assistant can engage in interactive and meaningful conversations with users, making interactions more human-like and intuitive.
+
+- **Image Generation:** Powered by DALL-E, the assistant can take textual descriptions and create corresponding images, adding a creative and visual element to the user experience.
+
+- **Flutter Framework:** The project is built using the Flutter framework, allowing seamless cross-platform development for mobile devices.
 
 ## Getting Started
 
